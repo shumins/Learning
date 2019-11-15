@@ -1,0 +1,5 @@
+项目目标：  学习.NetCore     学会.NetCore     实战.NetCore
+
+初步设计为前后端分离
+BackEnd:后端项目
+FrontEnd:前端项目

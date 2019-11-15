@@ -1,0 +1,11 @@
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\obj\Debug\netcoreapp2.1\Learning.Common.csprojAssemblyReference.cache
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\obj\Debug\netcoreapp2.1\Learning.Common.AssemblyInfoInputs.cache
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\obj\Debug\netcoreapp2.1\Learning.Common.AssemblyInfo.cs
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\bin\Debug\netcoreapp2.1\Learning.Common.deps.json
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\bin\Debug\netcoreapp2.1\Learning.Common.dll
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\bin\Debug\netcoreapp2.1\Learning.Common.pdb
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\obj\Debug\netcoreapp2.1\Learning.Common.csproj.CopyComplete
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\obj\Debug\netcoreapp2.1\Learning.Common.dll
+D:\CompanyCode\Net_Core\BackEnd\Learning\Learning.Common\obj\Debug\netcoreapp2.1\Learning.Common.pdb
